@@ -1,5 +1,5 @@
 # OBS_Control
-Little floating window that allows you to pass keyboard shortcuts to OBS
+Little floating window that allows you to pass keyboard shortcuts to OBS (Tested on Windows 10)
 
 You will need:
 1. OBS
